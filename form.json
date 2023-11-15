@@ -26,7 +26,7 @@
     "name": "Project 3",
     "typeOfProject": "Project 3 Type",
     "description": "Project 3 Description",
-    "skills": "skill 1, skill 2, skill 3"
+    "skill": "skill 1, skill 2, skill 3"
   },
   "project4": {
     "name": "Project 4",
