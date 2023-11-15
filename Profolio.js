@@ -19,7 +19,16 @@ function updateNameFromJSON() {
 
       //skills
       const skill = data.project1.skill;
-      console.log(skill);
+      //parse each skill into a list of skills
+      const skillList = skill.split(',');
+      //get the ul element
+      const skillElement = document.getElementById('skill');
+      //loop through the list of skills and add each one to the ul
+      for (let i = 0; i < skillList.length; i++) {
+        let li = document.createElement('li');
+        li.textContent = skillList[i];
+        skillElement.appendChild(li);
+      }
 
     })
     .catch(error => {
