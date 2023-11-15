@@ -1,0 +1,44 @@
+{
+  "index": {
+    "name": "Placeholder",
+    "Profession": "Web Developer",
+    "Project1": "Project1",
+    "Project2": "Project2",
+    "Project3": "Project3",
+    "Project4": "Project4",
+    "Project5": "Project5",
+    "Project6": "Project6",
+    "LinkedIn": "LinkedIn"
+  },
+  "project1": {
+    "name": "Project1",
+    "description": "Project1 Description",
+    "link": "Project1 Link"
+  },
+  "project2": {
+    "name": "Project2",
+    "description": "Project2 Description",
+    "link": "Project2 Link"
+  },
+  "project3": {
+    "name": "Project3",
+    "description": "Project3 Description",
+    "link": "Project3 Link"
+  },
+  "project4": {
+    "name": "Project4",
+    "description": "Project4 Description",
+    "link": "Project4 Link"
+  },
+  "project5": {
+    "name": "Project5",
+    "description": "Project5 Description",
+    "link": "Project5 Link"
+  },
+  "project6": {
+    "name": "Project6",
+    "description": "Project6 Description",
+    "link": "Project6 Link"
+  }
+
+}
