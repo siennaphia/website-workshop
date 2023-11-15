@@ -12,33 +12,44 @@
   },
   "project1": {
     "name": "Project1",
+    "TypeOfProject": "Project1 Type",
     "description": "Project1 Description",
+    "Skill": "Project1 Role",
     "link": "Project1 Link"
   },
   "project2": {
     "name": "Project2",
+    "TypeOfProject": "Project2 Type",
     "description": "Project2 Description",
+    "Skill": "Project2 Role",
     "link": "Project2 Link"
   },
   "project3": {
     "name": "Project3",
+    "TypeOfProject": "Project3 Type",
     "description": "Project3 Description",
+    "Skill": "Project3 Role",
     "link": "Project3 Link"
   },
   "project4": {
     "name": "Project4",
+    "TypeOfProject": "Project4 Type",
     "description": "Project4 Description",
+    "Skill": "Project4 Role",
     "link": "Project4 Link"
   },
   "project5": {
     "name": "Project5",
+    "TypeOfProject": "Project5 Type",
     "description": "Project5 Description",
+    "Skill": "Project5 Role",
     "link": "Project5 Link"
   },
   "project6": {
     "name": "Project6",
+    "TypeOfProject": "Project6 Type",
     "description": "Project6 Description",
+    "Skill": "Project6 Role",
     "link": "Project6 Link"
   }
-
 }
