@@ -2,11 +2,22 @@ function updateNameFromJSON() {
   fetch('form.json')
     .then(response => response.json())
     .then(data => {
+      //Project Name
       const name = data.project1.name;
-      const projecttype = data.project1.projecttype;
       const nameElement = document.getElementById('projectName');
-      const projecttypeElement = document.getElementById('description');
       nameElement.textContent = `${name}`;
+
+      //Project Type
+      const projectType = data.project1.typeOfProject;
+      const projecttypeElement = document.getElementById('typeOfProject');
+      projecttypeElement.textContent = `${projectType}`;
+
+      //Project Description
+      const projectDescription = data.project1.description;
+      const projectDescriptionElement = document.getElementById('description');
+      projectDescriptionElement.textContent = `${projectDescription}`;
+
+      
     })
     .catch(error => {
       console.error('Error fetching or parsing JSON:', error);
