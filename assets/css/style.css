@@ -12,6 +12,7 @@
 body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
+  margin-bottom: 0;
 }
 
 a {
@@ -472,7 +473,7 @@ h6,
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  padding: 0 0 4rem 0;
+  padding: 0 0 2rem 0;
 }
 
 .footer a {
