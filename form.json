@@ -2,55 +2,55 @@
   "index": {
     "name": "Sienna",
     "profession": "Web Developer",
-    "project1": "Project1",
-    "project2": "Project2",
-    "project3": "Project3",
-    "project4": "Project4",
-    "project5": "Project5",
-    "project6": "Project6",
+    "project1": "Project 1",
+    "project2": "Project 2",
+    "project3": "Project 3",
+    "project4": "Project 4",
+    "project5": "Project 5",
+    "project6": "Project 6",
     "linkedIn": "LinkedIn"
   },
   "project1": {
-    "name": "Project1",
-    "typeOfProject": "Project1 Type",
-    "description": "Project1 Description",
-    "Skill": "Project1 Role",
-    "tink": "Project1 Link"
+    "name": "Project 1",
+    "typeOfProject": "Project 1 Type",
+    "description": "Project 1 Description",
+    "Skill": "Project 1 Role",
+    "tink": "Project 1 Link"
   },
   "project2": {
-    "name": "Project2",
-    "typeOfProject": "Project2 Type",
-    "description": "Project2 Description",
-    "Skill": "Project2 Role",
-    "tink": "Project2 Link"
+    "name": "Project 2",
+    "typeOfProject": "Project 2 Type",
+    "description": "Project 2 Description",
+    "Skill": "Project 2 Role",
+    "tink": "Project 2 Link"
   },
   "project3": {
-    "name": "Project3",
-    "typeOfProject": "Project3 Type",
-    "description": "Project3 Description",
-    "Skill": "Project3 Role",
-    "tink": "Project3 Link"
+    "name": "Project 3",
+    "typeOfProject": "Project 3 Type",
+    "description": "Project 3 Description",
+    "Skill": "Project 3 Role",
+    "tink": "Project 3 Link"
   },
   "project4": {
-    "name": "Project4",
-    "typeOfProject": "Project4 Type",
-    "description": "Project4 Description",
-    "Skill": "Project4 Role",
-    "tink": "Project4 Link"
+    "name": "Project 4",
+    "typeOfProject": "Project 4 Type",
+    "description": "Project 4 Description",
+    "Skill": "Project 4 Role",
+    "tink": "Project 4 Link"
   },
   "project5": {
-    "name": "Project5",
-    "typeOfProject": "Project5 Type",
-    "description": "Project5 Description",
-    "Skill": "Project5 Role",
-    "tink": "Project5 Link"
+    "name": "Project 5",
+    "typeOfProject": "Project 5 Type",
+    "description": "Project 5 Description",
+    "Skill": "Project 5 Role",
+    "tink": "Project 5 Link"
   },
   "project6": {
-    "name": "Project6",
-    "typeOfProject": "Project6 Type",
-    "description": "Project6 Description",
-    "Skill": "Project6 Role",
-    "tink": "Project6 Link"
+    "name": "Project 6",
+    "typeOfProject": "Project 6 Type",
+    "description": "Project 6 Description",
+    "Skill": "Project 6 Role",
+    "tink": "Project 6 Link"
   }
 
 }
