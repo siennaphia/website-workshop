@@ -17,7 +17,10 @@ function updateNameFromJSON() {
       const projectDescriptionElement = document.getElementById('description');
       projectDescriptionElement.textContent = `${projectDescription}`;
 
-      
+      //skills
+      const skill = data.project1.skill;
+      console.log(skill);
+
     })
     .catch(error => {
       console.error('Error fetching or parsing JSON:', error);

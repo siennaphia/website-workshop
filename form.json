@@ -14,37 +14,37 @@
     "name": "Project 1",
     "typeOfProject": "Project 1 Type",
     "description": "Project 1 Description",
-    "Skill": "Project 1 Role"
+    "skill": "skill 1, skill 2, skill 3"
   },
   "project2": {
     "name": "Project 2",
     "typeOfProject": "Project 2 Type",
     "description": "Project 2 Description",
-    "Skill": "Project 2 Role"
+    "skill": "skill 1, skill 2, skill 3"
   },
   "project3": {
     "name": "Project 3",
     "typeOfProject": "Project 3 Type",
     "description": "Project 3 Description",
-    "Skill": "Project 3 Role"
+    "skills": "skill 1, skill 2, skill 3"
   },
   "project4": {
     "name": "Project 4",
     "typeOfProject": "Project 4 Type",
     "description": "Project 4 Description",
-    "Skill": "Project 4 Role"
+    "skill": "skill 1, skill 2, skill 3"
   },
   "project5": {
     "name": "Project 5",
     "typeOfProject": "Project 5 Type",
     "description": "Project 5 Description",
-    "Skill": "Project 5 Role"
+    "skill": "skill 1, skill 2, skill 3"
   },
   "project6": {
     "name": "Project 6",
     "typeOfProject": "Project 6 Type",
     "description": "Project 6 Description",
-    "Skill": "Project 6 Role"
+    "skill": "skill 1, skill 2, skill 3"
   }
 
 }
